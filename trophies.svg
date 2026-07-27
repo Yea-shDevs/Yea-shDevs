@@ -1,0 +1,115 @@
+<svg width="780" height="200" viewBox="0 0 780 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yashvardhan Sengar GitHub trophies">
+  <title>Trophies - Yea-shDevs</title>
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b3a"/><stop offset="100%" stop-color="#0d1226"/>
+    </linearGradient>
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bfe8ff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#bfe8ff" stop-opacity="0.4"/>
+      <stop offset="55%" stop-color="#bfe8ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#bfe8ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3.2"/></filter>
+    <clipPath id="outer"><rect x="0" y="0" width="780" height="200" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#outer)">
+  <rect x="0" y="0" width="780" height="200" fill="url(#cardBg)" stroke="#2a3363" stroke-width="1.5"/>
+  <text x="24" y="30" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef1ff">Trophies</text>
+<g transform="translate(24.0,44)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.2308;1.0000" values="0;0;1" dur="0.65s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" keyTimes="0.0000;0.2308;1.0000" values="0.7,0.7;0.7,0.7;1,1" dur="0.65s" begin="0s" fill="freeze" additive="sum"/>
+        <clipPath id="cell0Clip"><rect x="0" y="0" width="135.2" height="140" rx="14"/></clipPath>
+        <rect x="0" y="0" width="135.2" height="140" rx="14" fill="#0d1226" stroke="#ff5fa2" stroke-width="1.4"/>
+        <circle cx="67.6" cy="46" r="26" fill="none" stroke="#ff5fa2" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="24;27;24" dur="2.6s" begin="0.65s" repeatCount="indefinite"/>
+        </circle>
+        <text x="67.6" y="53" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="800" fill="#ff5fa2">B</text>
+        <text x="67.6" y="90" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#9aa4d6">Repositories</text>
+        <text x="67.6" y="110" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#eef1ff">6</text>
+        <g clip-path="url(#cell0Clip)">
+          <rect x="-60" y="-10" width="40" height="160" fill="url(#shineGrad)" transform="rotate(18,67.6,70.0)">
+            <animate attributeName="x" from="-60" to="175.2" dur="3.2s" begin="0.95s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+<g transform="translate(173.2,44)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.3671;1.0000" values="0;0;1" dur="0.79s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" keyTimes="0.0000;0.3671;1.0000" values="0.7,0.7;0.7,0.7;1,1" dur="0.79s" begin="0s" fill="freeze" additive="sum"/>
+        <clipPath id="cell1Clip"><rect x="0" y="0" width="135.2" height="140" rx="14"/></clipPath>
+        <rect x="0" y="0" width="135.2" height="140" rx="14" fill="#0d1226" stroke="#9b6bff" stroke-width="1.4"/>
+        <circle cx="67.6" cy="46" r="26" fill="none" stroke="#9b6bff" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="24;27;24" dur="2.6s" begin="0.79s" repeatCount="indefinite"/>
+        </circle>
+        <text x="67.6" y="53" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="800" fill="#9b6bff">B+</text>
+        <text x="67.6" y="90" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#9aa4d6">Commits</text>
+        <text x="67.6" y="110" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#eef1ff">150+</text>
+        <g clip-path="url(#cell1Clip)">
+          <rect x="-60" y="-10" width="40" height="160" fill="url(#shineGrad)" transform="rotate(18,67.6,70.0)">
+            <animate attributeName="x" from="-60" to="175.2" dur="3.2s" begin="1.34s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+<g transform="translate(322.4,44)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.4624;1.0000" values="0;0;1" dur="0.93s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" keyTimes="0.0000;0.4624;1.0000" values="0.7,0.7;0.7,0.7;1,1" dur="0.93s" begin="0s" fill="freeze" additive="sum"/>
+        <clipPath id="cell2Clip"><rect x="0" y="0" width="135.2" height="140" rx="14"/></clipPath>
+        <rect x="0" y="0" width="135.2" height="140" rx="14" fill="#0d1226" stroke="#22d3ee" stroke-width="1.4"/>
+        <circle cx="67.6" cy="46" r="26" fill="none" stroke="#22d3ee" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="24;27;24" dur="2.6s" begin="0.93s" repeatCount="indefinite"/>
+        </circle>
+        <text x="67.6" y="53" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="800" fill="#22d3ee">C</text>
+        <text x="67.6" y="90" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#9aa4d6">LeetCode</text>
+        <text x="67.6" y="110" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#eef1ff">3</text>
+        <g clip-path="url(#cell2Clip)">
+          <rect x="-60" y="-10" width="40" height="160" fill="url(#shineGrad)" transform="rotate(18,67.6,70.0)">
+            <animate attributeName="x" from="-60" to="175.2" dur="3.2s" begin="1.73s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+<g transform="translate(471.6,44)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5327;1.0000" values="0;0;1" dur="1.07s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" keyTimes="0.0000;0.5327;1.0000" values="0.7,0.7;0.7,0.7;1,1" dur="1.07s" begin="0s" fill="freeze" additive="sum"/>
+        <clipPath id="cell3Clip"><rect x="0" y="0" width="135.2" height="140" rx="14"/></clipPath>
+        <rect x="0" y="0" width="135.2" height="140" rx="14" fill="#0d1226" stroke="#ffb020" stroke-width="1.4"/>
+        <circle cx="67.6" cy="46" r="26" fill="none" stroke="#ffb020" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="24;27;24" dur="2.6s" begin="1.07s" repeatCount="indefinite"/>
+        </circle>
+        <text x="67.6" y="53" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="800" fill="#ffb020">C+</text>
+        <text x="67.6" y="90" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#9aa4d6">Followers</text>
+        <text x="67.6" y="110" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#eef1ff">Growing</text>
+        <g clip-path="url(#cell3Clip)">
+          <rect x="-60" y="-10" width="40" height="160" fill="url(#shineGrad)" transform="rotate(18,67.6,70.0)">
+            <animate attributeName="x" from="-60" to="175.2" dur="3.2s" begin="2.12s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+<g transform="translate(620.8,44)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5868;1.0000" values="0;0;1" dur="1.21s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" keyTimes="0.0000;0.5868;1.0000" values="0.7,0.7;0.7,0.7;1,1" dur="1.21s" begin="0s" fill="freeze" additive="sum"/>
+        <clipPath id="cell4Clip"><rect x="0" y="0" width="135.2" height="140" rx="14"/></clipPath>
+        <rect x="0" y="0" width="135.2" height="140" rx="14" fill="#0d1226" stroke="#33e39a" stroke-width="1.4"/>
+        <circle cx="67.6" cy="46" r="26" fill="none" stroke="#33e39a" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="24;27;24" dur="2.6s" begin="1.21s" repeatCount="indefinite"/>
+        </circle>
+        <text x="67.6" y="53" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="800" fill="#33e39a">B-</text>
+        <text x="67.6" y="90" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#9aa4d6">Experience</text>
+        <text x="67.6" y="110" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#eef1ff">1 yr</text>
+        <g clip-path="url(#cell4Clip)">
+          <rect x="-60" y="-10" width="40" height="160" fill="url(#shineGrad)" transform="rotate(18,67.6,70.0)">
+            <animate attributeName="x" from="-60" to="175.2" dur="3.2s" begin="2.51s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+</g>
+</svg>

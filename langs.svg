@@ -1,0 +1,87 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yashvardhan Sengar most used languages">
+  <title>Most Used Languages - Yea-shDevs</title>
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b3a"/><stop offset="100%" stop-color="#0d1226"/>
+    </linearGradient>
+    <clipPath id="outer"><rect x="0" y="0" width="480" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#outer)">
+  <rect x="0" y="0" width="480" height="260" fill="url(#cardBg)" stroke="#2a3363" stroke-width="1.5"/>
+  <text x="24" y="34" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef1ff">Most Used Languages</text>
+<rect x="24" y="56" width="432" height="22" rx="11.0" fill="#1b2144"/>
+<rect x="24.0" y="56" width="0" height="22" fill="#e34c26">
+      <animate attributeName="width" from="0" to="138.2" dur="0.9s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="162.2" y="56" width="0" height="22" fill="#563d7c">
+      <animate attributeName="width" from="0" to="103.7" dur="0.9s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="265.9" y="56" width="0" height="22" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="86.4" dur="0.9s" begin="0.39s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="352.3" y="56" width="0" height="22" fill="#3572A5">
+      <animate attributeName="width" from="0" to="56.2" dur="0.9s" begin="0.51s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="408.5" y="56" width="0" height="22" fill="#b07219">
+      <animate attributeName="width" from="0" to="30.2" dur="0.9s" begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="438.7" y="56" width="0" height="22" fill="#f34b7d">
+      <animate attributeName="width" from="0" to="17.3" dur="0.9s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </rect>
+<rect x="24" y="56" width="432" height="22" rx="11.0" fill="none" stroke="#0d1226" stroke-width="0"/>
+<g transform="translate(24.0,108)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5263;1.0000" values="0;0;1" dur="0.95s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.5263;1.0000" values="-14,0;-14,0;0,0" dur="0.95s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">HTML</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#e34c26">32%</text>
+      </g>
+    </g>
+<g transform="translate(24.0,142)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5833;1.0000" values="0;0;1" dur="1.08s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.5833;1.0000" values="-14,0;-14,0;0,0" dur="1.08s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#563d7c"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">CSS</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#563d7c">24%</text>
+      </g>
+    </g>
+<g transform="translate(24.0,176)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.6281;1.0000" values="0;0;1" dur="1.21s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.6281;1.0000" values="-14,0;-14,0;0,0" dur="1.21s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">JavaScript</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#f1e05a">20%</text>
+      </g>
+    </g>
+<g transform="translate(240.0,108)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.6642;1.0000" values="0;0;1" dur="1.34s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.6642;1.0000" values="-14,0;-14,0;0,0" dur="1.34s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">Python</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#3572A5">13%</text>
+      </g>
+    </g>
+<g transform="translate(240.0,142)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.6939;1.0000" values="0;0;1" dur="1.47s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.6939;1.0000" values="-14,0;-14,0;0,0" dur="1.47s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#b07219"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">Java</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#b07219">7%</text>
+      </g>
+    </g>
+<g transform="translate(240.0,176)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.7188;1.0000" values="0;0;1" dur="1.60s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.7188;1.0000" values="-14,0;-14,0;0,0" dur="1.60s" begin="0s" fill="freeze"/>
+        <circle cx="6" cy="-4" r="6" fill="#f34b7d"/>
+        <text x="18" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">C++</text>
+        <text x="192.0" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" font-weight="700" fill="#f34b7d">4%</text>
+      </g>
+    </g>
+</g>
+</svg>

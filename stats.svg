@@ -1,0 +1,64 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yashvardhan Sengar GitHub stats">
+  <title>GitHub Stats - Yea-shDevs</title>
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff5fa2"><animate attributeName="stop-color" values="#ff5fa2;#9b6bff;#22d3ee;#ff5fa2" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#9b6bff"><animate attributeName="stop-color" values="#9b6bff;#22d3ee;#ff5fa2;#9b6bff" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b3a"/><stop offset="100%" stop-color="#0d1226"/>
+    </linearGradient>
+    <clipPath id="outer"><rect x="0" y="0" width="480" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#outer)">
+  <rect x="0" y="0" width="480" height="260" fill="url(#cardBg)" stroke="#2a3363" stroke-width="1.5"/>
+  <text x="24" y="34" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef1ff">GitHub Stats</text>
+  <text x="24" y="52" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#6b76a8">@Yea-shDevs</text>
+
+  <g transform="translate(100,130)">
+    <circle r="68" fill="none" stroke="#1b2144" stroke-width="12"/>
+    <circle r="68" fill="none" stroke="url(#ringGrad)" stroke-width="12" stroke-linecap="round"
+      stroke-dasharray="427.26" stroke-dashoffset="427.26" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" from="427.26" to="119.63" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    </circle>
+    <text x="0" y="-4" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="800" fill="#eef1ff">B+</text>
+    <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#6b76a8">OVERALL RANK</text>
+  </g>
+<g transform="translate(210,78)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.2857;1.0000" values="0;0;1" dur="0.70s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.2857;1.0000" values="24,0;24,0;0,0" dur="0.70s" begin="0s" fill="freeze"/>
+        <circle cx="5" cy="-4" r="4.5" fill="#ff5fa2"/>
+        <text x="16" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">Public Repos</text>
+        <text x="246" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" font-weight="700" fill="#ff5fa2">6</text>
+      </g>
+    </g>
+<g transform="translate(210,118)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.4318;1.0000" values="0;0;1" dur="0.88s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.4318;1.0000" values="24,0;24,0;0,0" dur="0.88s" begin="0s" fill="freeze"/>
+        <circle cx="5" cy="-4" r="4.5" fill="#9b6bff"/>
+        <text x="16" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">LeetCode Solved</text>
+        <text x="246" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" font-weight="700" fill="#9b6bff">3</text>
+      </g>
+    </g>
+<g transform="translate(210,158)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5283;1.0000" values="0;0;1" dur="1.06s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.5283;1.0000" values="24,0;24,0;0,0" dur="1.06s" begin="0s" fill="freeze"/>
+        <circle cx="5" cy="-4" r="4.5" fill="#22d3ee"/>
+        <text x="16" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">Languages Used</text>
+        <text x="246" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" font-weight="700" fill="#22d3ee">3</text>
+      </g>
+    </g>
+<g transform="translate(210,198)">
+      <g opacity="0">
+        <animate attributeName="opacity" keyTimes="0.0000;0.5968;1.0000" values="0;0;1" dur="1.24s" begin="0s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" keyTimes="0.0000;0.5968;1.0000" values="24,0;24,0;0,0" dur="1.24s" begin="0s" fill="freeze"/>
+        <circle cx="5" cy="-4" r="4.5" fill="#ffb020"/>
+        <text x="16" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9aa4d6">Profile Rank</text>
+        <text x="246" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" font-weight="700" fill="#ffb020">B+</text>
+      </g>
+    </g>
+</g>
+</svg>
